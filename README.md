@@ -37,23 +37,23 @@ I am currently working as a freelancer 💻
 ![](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### You can find me on
-[![Twitter][1.2]][1], [![LinkedIn][2.2]][2], [![LinkedIn][3.2]][3], [![LinkedIn][4.2]][4], [![LinkedIn][5.2]][5], [![LinkedIn][6.2]][6]
+[![Twitter][1.2]][1], [![LinkedIn][2.2]][2], [![Behance][3.2]][3], [![LinkedIn][4.2]][4], [![LinkedIn][5.2]][5], [![LinkedIn][6.2]][6]
 
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [3.2]: https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white 
-[4.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-[5.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-[6.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+[4.2]: https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
+[5.2]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
+[6.2]: https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/blaw_idris
-[2]: www.linkedin.com/in/idris-b4192999
+[2]: https://www.linkedin.com/in/idris-b4192999
 [3]: https://www.behance.net/idrisblaw
 [4]: https://dribbble.com/blawidris1
 [5]: https://hashnode.com/
 [6]: https://codepen.io/blawidris
 
 ### Git Status
-
+![blawidris's GitHub stats](https://github-readme-stats.vercel.app/api?username=blawidris&show_icons=true&theme=radical)
