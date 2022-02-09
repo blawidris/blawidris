@@ -8,6 +8,12 @@ I am currently working as a freelancer 💻
 
 #### I have experience working with
 
-
-
+![](https://img.shields.io/badge/HTML-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/PHP-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CodeIgniter-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Adobe Illustrator-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Adobe XD-E37400?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Photoshop-E37400?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E37400?style=for-the-badge&logo=html5&logoColor=white)
