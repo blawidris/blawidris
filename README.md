@@ -10,4 +10,4 @@ I am currently working as a freelancer 💻
 
 
 
-![](https://img.shields.io/badge/HTML-E37400?style=for-the-badge&logo=html&logoColor=white)
+![](https://img.shields.io/badge/HTML-E37400?style=for-the-badge&logo=html5&logoColor=white)
