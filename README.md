@@ -2,11 +2,11 @@
 
 I am a self-taught software developer passionate about solving problems to improve usability and functionality of websites and systems and love to learn new things.
 
-#### What I do?
+### What I do?
 
 I am currently working as a freelancer 💻
 
-#### I have experience working with
+### I have experience working with
 
 **Design**
 
@@ -36,9 +36,14 @@ I am currently working as a freelancer 💻
 
 ![](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### You can find me on
-![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+### You can find me on
+<a href="#">
+  ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+<a href="#">
+  ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+
+
+### Git Status
+
