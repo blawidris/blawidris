@@ -52,7 +52,7 @@ I am currently working as a freelancer 💻
 [2]: https://www.linkedin.com/in/idris-b4192999
 [3]: https://www.behance.net/idrisblaw
 [4]: https://dribbble.com/blawidris1
-[5]: https://hashnode.com/
+[5]: https://hashnode.com/@blawIdris
 [6]: https://codepen.io/blawidris
 
 ### Git Status
