@@ -10,4 +10,4 @@ I am currently working as a freelancer 💻
 
 
 
-![<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html.svg" />](https://img.shields.io/badge/<HTML>-<HTML>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/HTML-E37400?style=for-the-badge&logo=html&logoColor=white)
