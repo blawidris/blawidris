@@ -37,7 +37,7 @@ I am currently working as a freelancer 💻
 ![](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### You can find me on
-[![Twitter][1.2]][1], [![LinkedIn][2.2]][2], [![Behance][3.2]][3], [![LinkedIn][4.2]][4], [![LinkedIn][5.2]][5], [![LinkedIn][6.2]][6]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Behance][3.2]][3] [![LinkedIn][4.2]][4] [![LinkedIn][5.2]][5] [![LinkedIn][6.2]][6]
 
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
