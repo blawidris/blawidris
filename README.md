@@ -25,6 +25,7 @@ I am currently working as a freelancer 💻
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![](https://img.shields.io/badge/Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Database & Server**
 
