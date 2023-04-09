@@ -49,7 +49,7 @@ I am currently working as a freelancer 💻
 <!-- [6.2]: https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white -->
 
 <!-- Links to your social media accounts -->
-[1]: https://twitter.com/blaw_idris
+[1]: https://twitter.com/techblid
 [2]: https://www.linkedin.com/in/b-law-idris
 [3]: https://www.behance.net/idrisblaw
 [4]: https://dribbble.com/blawidris1
