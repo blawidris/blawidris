@@ -1,6 +1,6 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a self-taught software developer passionate about solving problems to improve usability and functionality of websites and systems and love to learn new things.
+Meet Idris: a self taught software developer with HTML, CSS, JS, Vue.js, PHP/Laravel, and Dart/Flutter. I have a talent for creating engaging digital experiences and am experienced in UI/UX design. My track record of success extends to mentoring and instructing others in software development. I stay current with the latest industry trends and best practices through ongoing learning and collaboration with peers.
 
 ### What I do?
 
